@@ -1,0 +1,11 @@
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/bin/Debug/netstandard2.0/TestDataBusiness.deps.json
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/bin/Debug/netstandard2.0/TestDataBusiness.dll
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/bin/Debug/netstandard2.0/TestDataBusiness.pdb
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/bin/Debug/netstandard2.0/TestDataCore.dll
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/bin/Debug/netstandard2.0/TestDataCore.pdb
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/obj/Debug/netstandard2.0/TestDataBusiness.csprojAssemblyReference.cache
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/obj/Debug/netstandard2.0/TestDataBusiness.AssemblyInfoInputs.cache
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/obj/Debug/netstandard2.0/TestDataBusiness.AssemblyInfo.cs
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/obj/Debug/netstandard2.0/TestDataBusiness.csproj.CopyComplete
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/obj/Debug/netstandard2.0/TestDataBusiness.dll
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataBusiness/obj/Debug/netstandard2.0/TestDataBusiness.pdb

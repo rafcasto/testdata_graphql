@@ -1,0 +1,7 @@
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataCore/bin/Debug/netstandard2.0/TestDataCore.deps.json
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataCore/bin/Debug/netstandard2.0/TestDataCore.dll
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataCore/bin/Debug/netstandard2.0/TestDataCore.pdb
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataCore/obj/Debug/netstandard2.0/TestDataCore.AssemblyInfoInputs.cache
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataCore/obj/Debug/netstandard2.0/TestDataCore.AssemblyInfo.cs
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataCore/obj/Debug/netstandard2.0/TestDataCore.dll
+/home/fanvel/testdata_graphql/testdata_graphql/TestDataCore/obj/Debug/netstandard2.0/TestDataCore.pdb
